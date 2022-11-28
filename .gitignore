@@ -1,3 +1,7 @@
+# Unique local files
+in.txt
+out.csv
+
 # Logs
 logs
 *.log
